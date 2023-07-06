@@ -1,0 +1,29 @@
+@import url('./reset.css');
+@import url('./fonts.css');
+@import url('./variables.css');
+
+/* Heder */
+@import url('./header.css');
+/* Hero */
+@import url('./hero.css');
+/* Works */
+@import url('./work.css');
+/* Vegetables */
+@import url('./vegetables.css');
+/* Contacts */
+@import url('./we-will-call-you.css');
+/* Footer */
+@import url('./footer-style.css');
+/* Modal */
+@import url('./modal.css');
+
+
+
+
+
+
+
+
+/* Button scroll to top */
+@import url('./btntotop.css');
+
